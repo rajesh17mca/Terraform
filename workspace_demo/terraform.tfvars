@@ -1,0 +1,2 @@
+ami_value_root="ami-0ebfd941bbafe70c6"
+bucket_name_value_root="s3_bucket_terraform_rajesh"
