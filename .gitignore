@@ -3,5 +3,6 @@
 */.venv
 */.venv/*
 */terraform.tfstate.d/*/*.tfstate*
+*.tfstate*
 */.terraform.lock.hcl
 */terraform.tfstate*
